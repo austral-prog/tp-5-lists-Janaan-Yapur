@@ -11,7 +11,7 @@ def remove_elements(lista):
     Returns:
         La lista después de remover los elementos indicados
     """
-        if len(lista) > 5:
+    if len(lista) > 5:
         lista.pop(5)
     if len(lista) > 4:
         lista.pop(4)
