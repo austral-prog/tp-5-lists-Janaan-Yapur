@@ -17,5 +17,4 @@ def check_lists(lista1, lista2):
             return True
         else:
             return False
-    else:
-        return False
+  
