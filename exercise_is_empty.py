@@ -12,5 +12,5 @@ def is_empty(lista):
     """
     if not lista:
         return True
-    elif lista:
+    else:
         return False
